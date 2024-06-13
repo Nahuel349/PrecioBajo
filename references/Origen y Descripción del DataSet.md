@@ -9,8 +9,9 @@ Se solicito por Correo Electronico a la platafoma un Set de Datos que contenga, 
 **El Dataset tiene:**
 
 *Cantidad de instancias: 6559 registros (filas).
-*Características (columnas): 4
+*Características (columnas): 5
     *proveedor: Nombre del proveedor - tipo de dato object-(cadena de texto).
+    *categoria: Nombre del Categoria del Producto - tipo de dato object-(cadena de texto).
     *producto: Tipo de producto de carne - tipo de dato object-(cadena de texto).
     *fecha: Fecha del registro - tipo de dato object-(cadena de texto).
     *precio: Precio del producto - tipo de dato int64-(entero).
@@ -22,6 +23,7 @@ Se solicito por Correo Electronico a la platafoma un Set de Datos que contenga, 
 | Variable | Descripción | Tipo de Dato |
 | ------------ | ------------ | ------------ |
 | Proveedor | Nombre del Comercio en el cual se releva el precio del producto. | Cadena de Caracteres. |
+| Categoria | Nombre de la Categoria que le corresponde al producto. | Cadena de Caracteres. |
 | Producto | Nombre del Producto de la Carne que se releva el Precio. | Cadena de Caracteres. |
 | Fecha | Fecha del Dia y Hora del registro de escaneo del precio del producto | Cadena de Caracteres. |
 | Precio| Valor que corresponde a 1 Kg. (1000 g.) de Producto relevado. | Numero entero. |
@@ -44,7 +46,7 @@ Se solicito por Correo Electronico a la platafoma un Set de Datos que contenga, 
 
 **El Resumen Estadístico y nos muestra que:** 
 
-- Hay 6559 registros en total.
+- Hay 6558 registros en total.
 - Hay 15 proveedores y 39 productos únicos.
 - La columna de fecha tiene 1097 valores únicos.
 - El precio promedio es de aproximadamente 7959.07, con una desviación estándar de 2091.37.
