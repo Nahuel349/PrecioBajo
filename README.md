@@ -77,7 +77,7 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     ├── README.md          <- # Descripción del Proyecto de Apendizaje Automatico 
     ├── data
     │   ├── external       <- Datos de fuentes externas.
-    │           └──                 <- # Encontramos el DataSet "Carnes.xlsx"
+    │           └──                 <- # DataSet "Carnes.xlsx"
     │ 
     │   ├── interim        <- Datos intermedios que han sido transformados.
     │   ├── processed      <- Datasets finales para el modelado.
@@ -88,11 +88,10 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     ├── models             <- Modelos entrenados, predicciones o resumenes de modelos.
     │
     ├── notebooks          <- Jupyter notebooks.  
-    │                               <- # Encontramos el Archivo "Examen_Parcial_V1.ipynb"**          
-    │                               <- # Primera Versión del Trabajo - Analisis del DataSeT              
+    │                               <- # Archivo "Examen_Parcial_V1.ipynb" - Primera versión del Trabajo - Analisis del DataSet              
     │
     ├── references         <- Diccionario de datos, manuales y otro material explicativo.  
-    │                               <- # Encontramos el Archivo "Origen y Descripción del DataSet.md"
+    │                               <- # Archivo "Origen y Descripción del DataSet.md" - Informe del Analisis del DataSet
     │
     ├── reports            <- Analisis generado como HTML, PDF, LaTeX, etc.
     │   └── figures        <- Graficos y figuras generadas para ser usadas en reportes.
