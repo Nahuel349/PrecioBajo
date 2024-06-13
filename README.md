@@ -74,9 +74,11 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     
     ├── LICENSE
     ├── Makefile           <- Makefile con comandos como `make data` o `make train`
-    ├── README.md          <- El README del nivel superior para desarrolladores o usuarios de este proyecto.
+    ├── README.md          <- # Descripción del Proyecto de Apendizaje Automatico 
     ├── data
     │   ├── external       <- Datos de fuentes externas.
+    │           └──                 <- # Encontramos el DataSet "Carnes.xlsx"
+    │ 
     │   ├── interim        <- Datos intermedios que han sido transformados.
     │   ├── processed      <- Datasets finales para el modelado.
     │   └── raw            <- Datos crudos internos.
@@ -85,11 +87,12 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     │
     ├── models             <- Modelos entrenados, predicciones o resumenes de modelos.
     │
-    ├── notebooks          <- Jupyter notebooks. La convencion para            		nombrarlos es un
-    │                                    numero (para ordenarlos) seguido de las iniciales del creador y una descripcion corta 
-    │                                   demilitada por "-" por ejemplo `1.0-jqp-exploracion-inicial-datos`.
+    ├── notebooks          <- Jupyter notebooks.  
+    │                               <- # Encontramos el Archivo "Examen_Parcial_V1.ipynb"**          
+    │                               <- # Primera Versión del Trabajo - Analisis del DataSeT              
     │
-    ├── references         <- Diccionario de datos, manuales y otro material explicativo.
+    ├── references         <- Diccionario de datos, manuales y otro material explicativo.  
+    │                               <- # Encontramos el Archivo "Origen y Descripción del DataSet.md"
     │
     ├── reports            <- Analisis generado como HTML, PDF, LaTeX, etc.
     │   └── figures        <- Graficos y figuras generadas para ser usadas en reportes.
