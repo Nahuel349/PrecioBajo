@@ -1,4 +1,4 @@
-## Origen y Descripción del DataSet "Carnes.xlsx
+## Origen y Descripción del DataSet "Carnes.csv
 
 **Los Datos son provenientes de la Platafoma "https://preciobajo.com.ar"**
 

@@ -77,7 +77,7 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     ├── README.md          <- # Descripción del Proyecto de Apendizaje Automatico 
     ├── data
     │   ├── external       <- Datos de fuentes externas.
-    │           └──                 <- # DataSet "Carnes.xlsx"
+    │           └──                 <- # DataSet "Carnes.csv"
     │ 
     │   ├── interim        <- Datos intermedios que han sido transformados.
     │   ├── processed      <- Datasets finales para el modelado.
