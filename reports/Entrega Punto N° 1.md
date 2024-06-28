@@ -33,32 +33,27 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
 #### PASOS A SEGUIR
 
 1.- Carga de Librerías necesarias
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* sklearn
 
-•	Pandas
-•	Numpy
-•	Seaborn
-•	Matplotlib
-•	sklearn
+2.- Exploración de Datos
+* Análisis General del DataSet
+* Análisis Descriptivo y Estadístico del DataSet
+* Análisis de valores nulos y duplicados.
 
-* 2.- Exploración de Datos
+3.- Preprocesamiento
+* Conversión de fechas a un formato adecuado 
+* Codificación de variables categóricas.
+* Normalización o estandarización de precios.
 
-•	Análisis General del DataSet
-•	Análisis Descriptivo y Estadístico del DataSet
-•	Análisis de valores nulos y duplicados.
+4.- Modelado
+* Definición del problema (Predicción de precios futuros, clasificación de productos o análisis de tendencias).
+* Selección de algoritmos apropiados (Regresión, Clasificación).
+* Entrenamiento y validación del Modelo.
 
-* 3.- Preprocesamiento
-
-•	Conversión de fechas a un formato adecuado 
-•	Codificación de variables categóricas.
-•	Normalización o estandarización de precios.
-
-* 4.- Modelado
-
-•	Definición del problema (Predicción de precios futuros, clasificación de productos o análisis de tendencias).
-•	Selección de algoritmos apropiados (Regresión, Clasificación).
-•	Entrenamiento y validación del Modelo.
-
-* 5.- Evaluación
-
-•	Métricas de desempeño para evaluar la precisión del modelo.
-•	Interpretación de resultados y conclusiones.
+5.- Evaluación
+* Métricas de desempeño para evaluar la precisión del modelo.
+* Interpretación de resultados y conclusiones.
