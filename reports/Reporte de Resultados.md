@@ -81,18 +81,18 @@
 **RESULTADO**
 
 **DATOS DE ENTRENAMIENTO**
-Error absoluto medio = 1712.984
-Error cuadratico medio = 4888211.91
-Puntuación R2 = 0.033
-Error absoluto mediano = 1400.957
-Puntuación de varianza explicada = 0.033
+* Error absoluto medio = 1712.984
+* Error cuadratico medio = 4888211.91
+* Puntuación R2 = 0.033
+* Error absoluto mediano = 1400.957
+* Puntuación de varianza explicada = 0.033
  
  **DATOS DE PRUEBA**
-Error absoluto medio = 1273.743
-Error cuadratico medio = 2914446.95
-Puntuación R2 = -0.066
-Error absoluto mediano = 933.537
-Puntuación de varianza explicada = -0.066
+* Error absoluto medio = 1273.743
+* Error cuadratico medio = 2914446.95
+* Puntuación R2 = -0.066
+* Error absoluto mediano = 933.537
+* Puntuación de varianza explicada = -0.066
 
 * Grafico del Modelo de Regresión "LinearRegression# (\PrecioBajo\reports\figures\RegresionLineal.png)
 
@@ -112,9 +112,9 @@ Puntuación de varianza explicada = -0.066
 **RESULTADO**
 
  **DATOS DE PRUEBA**
-Error absoluto medio = 263.34166999015906
-Error cuadratico medio = 257873.83651297292
-Puntuación R2 = 0.9056792524201331
+* Error absoluto medio = 263.34166999015906
+* Error cuadratico medio = 257873.83651297292
+* Puntuación R2 = 0.9056792524201331
 
 * Grafico del Modelo de Regresión "LinearRegression# (\PrecioBajo\reports\figures\ArbolD1.png)
 
@@ -133,11 +133,11 @@ El gráfico muestra la comparación entre los precios reales y los precios predi
 **RESULTADO**
 
  **DATOS DE ENTRENAMIENTO**
-Error absoluto medio = 315.1098877915395
-Error cuadratico medio = 394529.8967742431
-Puntuación R2 = 0.9169035118388641
-Error error absoluto mediano = 129.5999999999999
-Varianza = 0.917157973130365
+* Error absoluto medio = 315.1098877915395
+* Error cuadratico medio = 394529.8967742431
+* Puntuación R2 = 0.9169035118388641
+* Error error absoluto mediano = 129.5999999999999
+* Varianza = 0.917157973130365
 
 * Grafico del Modelo de Regresión "LinearRegression# (\PrecioBajo\reports\figures\ArbolD2.png)
 
