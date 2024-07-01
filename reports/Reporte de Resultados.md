@@ -128,7 +128,7 @@ El metodo nos da de resultado un 90 % de la variabilidad de los datos, lo que es
 El gráfico muestra la comparación entre los precios reales y los precios predichos utilizando un modelo de Árbol de Decisión. La línea roja indica la perfecta concordancia entre los valores predichos y los reales. La cercanía de los puntos a la línea roja indica la precisión del modelo. La mayoría de los puntos se encuentran cerca de esta línea, lo que sugiere que el modelo realiza predicciones bastante precisas
 
 
-#### METODO DE ARBOL N° 1
+#### METODO DE ARBOL N° 2
 
 **RESULTADO**
 
