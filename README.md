@@ -88,13 +88,18 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     ├── models             <- Modelos entrenados, predicciones o resumenes de modelos.
     │
     ├── notebooks          <- Jupyter notebooks.  
-    │                               <- # Archivo "Examen_Parcial_V1.ipynb" - Primera versión del Trabajo - Analisis del DataSet              
+    │                               <- # Archivo "Examen_Parcial_Final.ipynb" - Proyecto Final              
     │
     ├── references         <- Diccionario de datos, manuales y otro material explicativo.  
     │                               <- # Archivo "Origen y Descripción del DataSet.md" - Informe del Analisis del DataSet
     │
     ├── reports            <- Analisis generado como HTML, PDF, LaTeX, etc.
+    │                               <- Entrega Punto N° 1.md
+    │                               <- Reporte de Resultados.md
+    │ 
     │   └── figures        <- Graficos y figuras generadas para ser usadas en reportes.
+    │                               <- Imagen_1.PNG - Imagen_2.PNG - Imagen_3.PNG - Imagen_4.PNG - Imagen_5.PNG - Imagen_6.PNG
+    │                               <- RegresionLineal.PNG - ArbolD1.PNG - ArbolD2.PNG
     │
     ├── requirements.txt   <- El archivo de requerimientos para reproducir el ambiente de analisis por ejemplo
     │                         generado con `pip freeze > requirements.txt`

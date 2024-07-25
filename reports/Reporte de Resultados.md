@@ -106,29 +106,7 @@
     El gráfico muestra una comparación entre los valores reales de los precios (eje X) y las predicciones realizadas por el modelo (eje Y) para el conjunto de prueba. 
     Cada punto azul representa un precio real y su correspondiente predicción y la línea roja representa una predicción perfecta (donde el valor real es igual al valor predicho)
 
-
-#### METODO DE ARBOL N° 1
-
-**RESULTADO**
-
- **DATOS DE PRUEBA**
-* Error absoluto medio = 263.34166999015906
-* Error cuadratico medio = 257873.83651297292
-* Puntuación R2 = 0.9056792524201331
-
-* Grafico del Modelo de Regresión "LinearRegression# (\PrecioBajo\reports\figures\ArbolD1.png)
-
-#### Informe del Modelo
-
-**Descripción del Resultado del Método**
-Se realizo un Metodo de Arboles de Decisión para predecir el precio de los productos de carne basándose en dos características, "Proveedor y Producto#, se utilizo el Valor 40 para garantizar que cada vez que se entrene el modelo con los mismos datos, se obtengan los mismos resultados.
-El metodo nos da de resultado un 90 % de la variabilidad de los datos, lo que es un buen ajuste.
-
-**Gráfico**
-El gráfico muestra la comparación entre los precios reales y los precios predichos utilizando un modelo de Árbol de Decisión. La línea roja indica la perfecta concordancia entre los valores predichos y los reales. La cercanía de los puntos a la línea roja indica la precisión del modelo. La mayoría de los puntos se encuentran cerca de esta línea, lo que sugiere que el modelo realiza predicciones bastante precisas
-
-
-#### METODO DE ARBOL N° 2
+#### METODO DE ARBOL
 
 **RESULTADO**
 
