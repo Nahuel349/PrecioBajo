@@ -99,7 +99,7 @@ También desarrollaremos un modelo de Árbol de Decisión (RandomForestRegressor
     │ 
     │   └── figures        <- Graficos y figuras generadas para ser usadas en reportes.
     │                               <- Imagen_1.PNG - Imagen_2.PNG - Imagen_3.PNG - Imagen_4.PNG - Imagen_5.PNG - Imagen_6.PNG
-    │                               <- RegresionLineal.PNG - ArbolD1.PNG - ArbolD2.PNG
+    │                               <- RegresionLineal.PNG - ArbolD2.PNG
     │
     ├── requirements.txt   <- El archivo de requerimientos para reproducir el ambiente de analisis por ejemplo
     │                         generado con `pip freeze > requirements.txt`
